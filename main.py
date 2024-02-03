@@ -72,6 +72,7 @@ class Human:
             self.gladness += 10
             self.money -= 15
             self.satiety += 2
+    # Дописати ці 3 методи, 6 рядків
     def chill(self):
         pass
     def clean_home(self):
